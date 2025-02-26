@@ -69,11 +69,10 @@
 
 مثال‌های کامل 📖
 مثال 1:
-                                                                                                                                                             
                                                                                                                                                               Infix: (A + B) * (C - D)
                                                                                                                                                               Postfix: A B + C D - *
                                                                                                                                                               Prefix: * + A B - C D
-
+                                                                                                                                                              
 مثال 2:
                                                                                                                                                               Infix: A + B * C / D - E
                                                                                                                                                               Postfix: A B C * D / + E -
