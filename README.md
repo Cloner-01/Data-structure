@@ -75,8 +75,8 @@
 مثال 2:
                                                                                              Infix: A + B * C / D - E      Postfix: A B C * D / + E -   Prefix: - + A / * B C D E
                                                                                                                                                               
-مثال3:             
-                                                                                                 Infix: (A * B) + (C / D)        Postfix: A B * C D / +     Prefix: + * A B / C D
+مثال3:         Infix: (A * B) + (C / D)        Postfix: A B * C D / +     Prefix: + * A B / C D            
+                                                                                                 
 
 نکات مهم ⚠️
 
