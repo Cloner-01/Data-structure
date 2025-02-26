@@ -1,4 +1,4 @@
-#prefix to Infix
+#prefix to postfix
 def prefixToInfix(prefix):
     stack = []
     
